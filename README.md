@@ -1,6 +1,6 @@
 # JM_SessionHttpNetWorking
 
-[![CI Status](https://img.shields.io/travis/杨金铭/JM_SessionHttpNetWorking.svg?style=flat)](https://travis-ci.org/杨金铭/JM_SessionHttpNetWorking)
+[![CI Status](https://img.shields.io/travis/tomyang/JM_SessionHttpNetWorking.svg?style=flat)](https://travis-ci.org/tomyang/JM_SessionHttpNetWorking)
 [![Version](https://img.shields.io/cocoapods/v/JM_SessionHttpNetWorking.svg?style=flat)](https://cocoapods.org/pods/JM_SessionHttpNetWorking)
 [![License](https://img.shields.io/cocoapods/l/JM_SessionHttpNetWorking.svg?style=flat)](https://cocoapods.org/pods/JM_SessionHttpNetWorking)
 [![Platform](https://img.shields.io/cocoapods/p/JM_SessionHttpNetWorking.svg?style=flat)](https://cocoapods.org/pods/JM_SessionHttpNetWorking)
@@ -22,7 +22,7 @@ pod 'JM_SessionHttpNetWorking'
 
 ## Author
 
-杨金铭, jinming.yang@inin88.com
+tomyang, yang13026165706@163.com
 
 ## License
 
