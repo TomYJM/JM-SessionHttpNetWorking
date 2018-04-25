@@ -8,7 +8,7 @@
 
 #ifndef JM_ICNetWork_h
 #define JM_ICNetWork_h
-#import "JM_ICSessionDataStoryProtocol.h"
+#import "JM_ICSessionDataStory.h"
 #import "JM_ICNetWorkManager.h"
 #import "JM_ICSessionData.h"
 #import "JM_ICReceiverData.h"
