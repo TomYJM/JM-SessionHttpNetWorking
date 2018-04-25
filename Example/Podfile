@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JM_SessionHttpNetWorking_Example' do
+  pod 'JM_SessionHttpNetWorking', :path => '../'
+
+  target 'JM_SessionHttpNetWorking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
